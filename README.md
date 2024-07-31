@@ -1,4 +1,4 @@
-# Insurance-Claims_Fraud-Detection
+## Fraud Detection in Insurance Claims
 
 ### Description
 Implemented a machine learning model to detect fraudulent insurance claims.
